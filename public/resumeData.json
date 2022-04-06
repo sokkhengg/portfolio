@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Sokheng Teang",
+    "occupation": "(Software Engineer)",
+    "description": "I am a young and ambitious software engineer with a passion for developing innovative applications. I have a robust academic background and will graduate with an associate degree from Riverside City College in Mathematic and Behavioral Scince. I also have experience working in programming from completing a coding booth camp from Flatiron. I am confident that I have the ability to become a valuable member of any team, and I am eager to use my skills to develop cutting-edge software solutions.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Full-stack Software Engineer eager to contribute to team success through hard work, attention to detail, and strong communication skills. Training in (Ruby on Rails, React, and JavaScript). Developing a growth mindset as I learn, grow, and succeed in technology. I'm looking for a firm that recognizes my tenacity and ability to learn. Aside from programming, I also enjoy going for walks on the beach. I find that it's a great way to clear my head and relax. I also enjoy hiking and making food. I find both of these activities to be fun and rewarding.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "sokhengteangg@gmail.com",
+    "phone": "951-578-7127",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "(15302 Leahy Ave)",
+      "city": "(Bellflower)",
+      "state": "(CA)",
+      "zip": "(90706)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.sokhengteangdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
