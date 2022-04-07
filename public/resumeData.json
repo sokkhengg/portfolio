@@ -15,7 +15,7 @@
       "zip": "(90706)"
     },
     "website": "http://www.sokhengteangdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://www.linkedin.com/in/sokhengteang/com",
     "social": [
       {
         "name": "facebook",
@@ -31,6 +31,11 @@
         "name": "github",
         "url": "https://github.com/sokkhengg",
         "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@sokheng23",
+        "className": "fa-brands fa-medium"
       }
     ]
   },
