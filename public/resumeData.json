@@ -2,7 +2,7 @@
   "main": {
     "name": "Sokheng Teang",
     "occupation": "(Software Engineer)",
-    "description": "I am a young and ambitious software engineer with a passion for developing innovative applications. I have a robust academic background and will graduate with an associate degree from Riverside City College in Mathematic and Behavioral Scince. I also have experience working in programming from completing a coding booth camp from Flatiron. I am confident that I have the ability to become a valuable member of any team, and I am eager to use my skills to develop cutting-edge software solutions.",
+    "description": "I am a young and ambitious programmer with a passion for developing innovative applications. I have a robust academic background and will graduate with an associate degree from Riverside City College in Mathematic and Behavioral Scince. I also have experience working in programming from completing a coding booth camp from Flatiron. I am confident that I have the ability to become a valuable member of any team, and I am eager to use my skills to develop cutting-edge software solutions",
     "image": "profilepic.jpg",
     "bio": "Full-stack Software Engineer eager to contribute to team success through hard work, attention to detail, and strong communication skills. Training in (Ruby on Rails, React, and JavaScript). Developing a growth mindset as I learn, grow, and succeed in technology. I'm looking for a firm that recognizes my tenacity and ability to learn. Aside from programming, I also enjoy going for walks on the beach. I find that it's a great way to clear my head and relax. I also enjoy hiking and making food. I find both of these activities to be fun and rewarding.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -15,32 +15,27 @@
       "zip": "(90706)"
     },
     "website": "http://www.sokhengteangdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://www.linkedin.com/in/sokhengteang/com",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/sok.heng.10297/",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/sokhengteang/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/sokkhengg",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
+        "name": "medium",
+        "url": "https://medium.com/@sokheng23",
+        "className": "fa-brands fa-medium"
       }
     ]
   },
