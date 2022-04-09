@@ -75,28 +75,24 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
         "level": "50%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "60%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "65%"
       },
       {
-        "name": "VueJs",
+        "name": "Ruby on Rail",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Javascript",
+        "level": "55%"
       }
     ]
   },
