@@ -2,17 +2,15 @@
   "main": {
     "name": "Sokheng Teang",
     "occupation": "(Software Engineer)",
-    "description": "I am a young and ambitious programmer with a passion for developing innovative applications. I have a robust academic background and will graduate with an associate degree from Riverside City College in Mathematic and Behavioral Scince. I also have experience working in programming from completing a coding booth camp from Flatiron. I am confident that I have the ability to become a valuable member of any team, and I am eager to use my skills to develop cutting-edge software solutions",
+    "description": "I am an ambitious Software Engineer with a passion for developing innovative applications. I have a robust academic background and will graduate with an associate degree from Riverside City College in Mathematic and Behavioral Scince. I also have experience working in programming from completing a coding booth camp from Flatiron. I am confident that I have the ability to become a valuable member of any team, and I am eager to use my skills to develop cutting-edge software solutions",
     "image": "profilepic.jpg",
     "bio": "Full-stack Software Engineer eager to contribute to team success through hard work, attention to detail, and strong communication skills. Training in (Ruby on Rails, React, and JavaScript). Developing a growth mindset as I learn, grow, and succeed in technology. I'm looking for a firm that recognizes my tenacity and ability to learn. Aside from programming, I also enjoy going for walks on the beach. I find that it's a great way to clear my head and relax. I also enjoy hiking and making food. I find both of these activities to be fun and rewarding.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sokhengteangg@gmail.com",
     "phone": "951-578-7127",
     "address": {
-      "street": "(15302 Leahy Ave)",
-      "city": "(Bellflower)",
-      "state": "(CA)",
-      "zip": "(90706)"
+      "city": "Los Angelas",
+      "state": "(CA)"
     },
     "website": "http://www.sokhengteangdev.com",
     "resumedownload": "https://www.linkedin.com/in/sokhengteang/com",
@@ -45,7 +43,7 @@
       {
         "school": "Riversie City College",
         "degree": "Associate Degree in Mathematic",
-        "graduated": "June 2022",
+        "graduated": "June 2021",
         "description": "Well rounded student with great organizational and communication skill, and the most useful skills I have acquired at college is problem solving skill."
       },
       {
@@ -93,46 +91,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Your Upcoming Company",
+        "category": "helping company and candidate connect",
+        "image": "your-upcoming-company.jpg",
+        "url": "https://github.com/sokkhengg/Your-Upcoming-Company-Frond-End"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Cocktail-app",
+        "category": "Giving suggestion for what of kind cocktail can users make based on the ingredient in their cabinet",
+        "image": "cocktail-app.jpg",
+        "url": "https://github.com/sokkhengg/Cocktail-App"
       }
     ]
   }
