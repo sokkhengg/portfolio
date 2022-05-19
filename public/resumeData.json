@@ -38,7 +38,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "Riversie City College",
@@ -101,6 +100,18 @@
         "category": "Giving suggestion for what of kind cocktail can users make based on the ingredient in their cabinet",
         "image": "cocktail-app.jpg",
         "url": "https://github.com/sokkhengg/Cocktail-App"
+      },
+      {
+        "title": "Are-You-Smarter-Than-A-Flatiron-Student",
+        "category": "A public quiz website for users to pick the number of quiz questions they take and see how much money they earn when they get the correct answer and lose money if they choose the wrong answer.",
+        "image": "smart.png",
+        "url": "https://github.com/sokkhengg/Are-You-Smarter-Than-A-Flatiron-Student"
+      },
+      {
+        "title": "English-Dictionary-Notepad",
+        "category": "A multi-functionality dictionary and note-taking built to search English words definitions and take notes in one place.",
+        "image": "dic-note.png",
+        "url": "https://github.com/sokkhengg/English-Dictionary-Notepad"
       }
     ]
   }
